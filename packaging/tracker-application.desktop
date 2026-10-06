@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Tracker Application
+Comment=Personal task, activity, progress, and learning tracker
+Exec=tracker-application
+Icon=tracker-application
+Terminal=false
+Categories=Office;Utility;
+StartupNotify=true
